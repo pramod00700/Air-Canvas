@@ -11,5 +11,7 @@ There is dedicated hand gesture for each mode
 This is command line based application.
 To run it on a device we need to have a python IDE and dependencies given in requirement.txt file 
 Once the program is launched we can chose to write on new canvas or on an existing file usig differnt hand gestures, and save our work.
+To start project we run myui.py file.
 To close application we press 'q'.
+
                   
